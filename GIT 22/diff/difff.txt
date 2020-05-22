@@ -1,0 +1,16 @@
+git add views.py
+git commit -m "inicio"
+git diff 
+git diff --cached   ver los ultimos cambios
+git diff HEAD para ver lo que tenemso guardado y lo q estamos trabajndo
+
+
+otro rama
+mkdir templates
+touch templates/index.html
+git checkout -b templates 
+git add templates
+git commit -m "archivo html"
+ 
+  
+  
